@@ -11,3 +11,9 @@
 **RecyclerView Staggered Grid** 
 
 `recyclerView.setLayoutManager(new StaggeredGridLayoutManager(2, StaggeredGridLayoutManager.VERTICAL));`
+
+*Upcoming updates
+
+1. Loadmore (Endless)
+2. Header/Footer
+3. Section
